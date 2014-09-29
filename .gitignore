@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+.idea
+*.apk
+*.class
+*.iml
+gradle
+gradlew*
+gradle.properties
+build.gradle
+settings.gradle

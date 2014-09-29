@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Its Twitter Time</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Enter your Twitter login credentials</string>
+    <string name="username">twitter username or email address</string>
+    <string name="password">password</string>
+</resources>
