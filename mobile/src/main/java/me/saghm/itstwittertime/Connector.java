@@ -26,9 +26,6 @@ public class Connector extends AsyncTask<Connector.ActivityAndString, Void, Conn
             this.activity = activity;
             this.string  = string;
         }
-
-        //public Activity getActivity() { return activity; }
-        //public String   getString()   { return string; }
     }
 
     class ActivityAndStrings extends ActivityAndString {

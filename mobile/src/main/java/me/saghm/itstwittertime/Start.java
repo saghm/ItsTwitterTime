@@ -46,7 +46,8 @@ public class Start extends Activity implements MessageApi.MessageListener,
 
         try {
             twitter.setOAuthConsumer(
-                "FklTEyH5uzp4aDfw0blKpzBoI", "6CVE3NsOE33b4beYPND7gUE4arlu8YC133Ai0fviZ5jXYcTQsJ"
+                "84s3YTWzoxFdEX5iyqHGE777d",
+                "0z1khp5Rj0nRoteIwQGgzNfRrGNcfcLm6BZhpFRDdD7c3xNKIU"
             );
         } catch (IllegalStateException e) {}
 
